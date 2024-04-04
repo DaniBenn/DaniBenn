@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/91c7a43399e63e18b0bda809b2ac203d159b06b07c91ac1f9b1cadbc38998504/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://danibenn.github.io/DaniBennet.github.io/)
 <h1 align="center">Hi 👋, I'm Dani Bennet</h1>
-<h3 align="center">An Aspiring Game dev / Full Stack dev from India</h3>
+<h3 align="center"> Full Stack dev from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danibenn&label=Profile%20views&color=0e75b6&style=flat" alt="danibenn" /> </p>
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **danijulianbennet@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G9V5QmjHqQLcmqGEM827_AHuwqiOkbwg/view?usp=drive_link](https://drive.google.com/file/d/1G9V5QmjHqQLcmqGEM827_AHuwqiOkbwg/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1G9V5QmjHqQLcmqGEM827_AHuwqiOkbwg/view?usp=drive_link]([https://drive.google.com/file/d/1G9V5QmjHqQLcmqGEM827_AHuwqiOkbwg/view?usp=drive_link](https://drive.google.com/file/d/1zJHCTw-7vltRoBJulAdqawhay-kqcLHB/view?usp=drive_link))
 
 - ⚡ Fun fact **I'm a small time game dev**
 
