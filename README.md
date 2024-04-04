@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **danijulianbennet@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1G9V5QmjHqQLcmqGEM827_AHuwqiOkbwg/view?usp=drive_link](https://drive.google.com/file/d/1zJHCTw-7vltRoBJulAdqawhay-kqcLHB/view?usp=sharing)]([https://drive.google.com/file/d/1G9V5QmjHqQLcmqGEM827_AHuwqiOkbwg/view?usp=drive_link](https://drive.google.com/file/d/1zJHCTw-7vltRoBJulAdqawhay-kqcLHB/view?usp=drive_link))
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1G9V5QmjHqQLcmqGEM827_AHuwqiOkbwg/view?usp=drive_link](https://drive.google.com/file/d/1zJHCTw-7vltRoBJulAdqawhay-kqcLHB/view?usp=sharing)]
 
 - ⚡ Fun fact **I'm a small time game dev**
 
